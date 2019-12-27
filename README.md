@@ -1,6 +1,6 @@
 # 区块链小白书
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
+
 
 -----
 
@@ -26,7 +26,7 @@
 
 然而，需要注意的是，区块链技术作为金融互联网新技术，不可避免地与投机（或投资）联系在一起，导致的结果是市场上骗局丛生，行业里鱼龙混杂，所以有必要让民众对区块链有正确且清楚的了解。这就是《区块链小白书》的意义 —— 它就是写给小白的，目的不仅是为了让小白少走弯路，更是为了让小白不要误入歧途。
 
-李笑来，二〇一九年十月，于北京
+
 
 ## 准备工作
 
@@ -67,7 +67,6 @@
 
 这首先因为人是社交动物，然而更为重要的是，交流这个东西，随意的交流总是比刻意的交流更为有效 —— 因为随意的交流总是刻意解决那些连你自己都没意识到的问题…… 可偏偏，这些你自己意识不到的问题恰恰是最重要甚至最关键的问题。如果不借助这种群智的力量，很难想象还有什么办法可以解决这种隐秘的关键问题。
 
-在 [Mixin Messenger](https://mixin.one/messenger) 上，有一个群，群号是 *7000102093*，里面有一万多人 —— 可能是目前国内最优质的小白社群。群里定期有公开课，并且定期会开放聊天机会…… 在那里，你可以向别人提问，也可以观察他人之间的讨论，很多你弄不明白的问题，可能一不小心就彻底被他人的对话解决掉了。
 
 ## 比特币
 
@@ -207,25 +206,7 @@
 > 若是真的有谁能够操纵 51% 的算力，那么他会发现，对他来说，“贡献” 远比 “攻击” 更有利可图。
 
 ### 10. 小白如何购买比特币
-
-目前世界上对小白最友好的多币种钱包是 [Mixin Messenger](https://mixin.one/messenger)，它不仅支持你所能听说过的绝大多数数字资产收发与存储，并且使用极为方便。
-
-Mixin 下载方式：
-
-> * iOS
->   * 国内用户，在 iTunes [下载 Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)
->   * 国外用户，在 iTunes [下载 Mixin Messenger](https://apps.apple.com/app/mixin/id1322324266)
-> * Android
->   * 国内用户，在[腾讯应用宝下载](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[小米应用商店下载](http://app.mi.com/details?id=one.mixin.messenger)
->   * 国外用户，在 [Google Play Store 下载](https://play.google.com/store/apps/details?id=one.mixin.messenger)
-
-iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
-
-![](images/miniwallet.png)
-
-在 Mixin 里提供 OTC 服务的是 exin，机器人 ID：7000101276。
-
-你也可以到 [https://big.one](https://big.one) 或者 [https://b1.run](https://b1.run)，这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT 购买比特币，它也有 [OTC 服务](https://otc.b1.run/trade)。另外，Big.One 的 Mixin 大群 ID 是：*7000101910*。
+建议前往较大的交易所购买和存储比特币，比如火币，币安，OK等。具体可以联系我，我来帮你，哈哈哈哈哈
 
 再次需要提醒风险：
 
@@ -425,91 +406,3 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 -----
 
-## 关于本书
-
-本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
-
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
-
-本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
-
-> * 保留原文出处，加上原站链接：https://blockchainlittlebook.com
-> * 如若做出了修改，最好在保留原文的情况下，加上醒目的修改标注。
-
-欢迎各种语言的翻译 —— 请提交 pull request。请将翻译文件放置到相应的目录之中，文件仍然命名为 README.md，比如
-
-> /en/README.md
->
-> /jp/README.md
-
-**你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
-
-在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
-
-![](images/fork1.png)
-
-Fork 完成之后，点开 Settings
-
-![](images/fork2.png)
-
-往下拉，拉到 GitHub Pages 单元，Source 中选择 ```master branch```：
-
-![](images/fork3.png)
-
-而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.net.cn)上购买域名）：
-
-![](images/fork4.png)
-
-你需要在域名服务商的页面中，为自己的域名添加以下 4 条 A 记录和 1 条 CNAME 记录：
-
-> A 记录：
->
-> * 185.199.108.153
-> * 185.199.109.153
-> * 185.199.110.153
-> * 185.199.111.153
->
-> CNAME
->
-> host: www
->
-> Anser: *your-github-username*.github.io
-
-我的设置如下：
-
-![](images/custom-domain.png)
-
-大功告成！几分钟之后，你就可以看到你自己的域名已经生效了，若是你身边有人想要了解区块链，那么你就可以给他属于你自己的链接了。如果需要修改内容，直接在 GitHub 页面里编辑即可……
-
-注意：原仓库会经常更新，所以，你也要将你的 Fork 保持更新：
-
-```bash
-git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
-cd blockchainlittlebook.com
-git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
-git pull upstream master
-git push -u origin master
-```
-
-## 关于作者
-
-李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
-
-### 出版书籍
-
-> * TOEFL 核心词汇 21 天突破
-> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
-> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
-> * 通往财富自由之路
-> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
-> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
-> * [定投改变命运（第三版）](https://onregularinvesting.com)
-
-### 其它
-
-> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
-> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
-> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
-> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
-> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
-> * [区块链小白书](https://blockchainlittlebook.com)
